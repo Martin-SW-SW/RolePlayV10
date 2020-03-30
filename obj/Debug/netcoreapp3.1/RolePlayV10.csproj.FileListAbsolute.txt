@@ -1,0 +1,11 @@
+C:\c#_code\RolePlayV10\bin\Debug\netcoreapp3.1\RolePlayV10.exe
+C:\c#_code\RolePlayV10\bin\Debug\netcoreapp3.1\RolePlayV10.deps.json
+C:\c#_code\RolePlayV10\bin\Debug\netcoreapp3.1\RolePlayV10.runtimeconfig.json
+C:\c#_code\RolePlayV10\bin\Debug\netcoreapp3.1\RolePlayV10.runtimeconfig.dev.json
+C:\c#_code\RolePlayV10\bin\Debug\netcoreapp3.1\RolePlayV10.dll
+C:\c#_code\RolePlayV10\bin\Debug\netcoreapp3.1\RolePlayV10.pdb
+C:\c#_code\RolePlayV10\obj\Debug\netcoreapp3.1\RolePlayV10.csprojAssemblyReference.cache
+C:\c#_code\RolePlayV10\obj\Debug\netcoreapp3.1\RolePlayV10.AssemblyInfoInputs.cache
+C:\c#_code\RolePlayV10\obj\Debug\netcoreapp3.1\RolePlayV10.AssemblyInfo.cs
+C:\c#_code\RolePlayV10\obj\Debug\netcoreapp3.1\RolePlayV10.dll
+C:\c#_code\RolePlayV10\obj\Debug\netcoreapp3.1\RolePlayV10.pdb
